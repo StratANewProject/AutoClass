@@ -6,7 +6,10 @@
 ![Image text](https://github.com/StratANewProject/AutoClass/blob/master/%E8%AF%BE%E7%A8%8B%E7%BC%96%E5%8F%B7%E6%9F%A5%E7%9C%8B%E6%96%B9%E6%B3%95.JPG)
 <br>如:http://acadol.hnu.edu.cn/LMS/study/course/onlineCourse/detail.do?id=158 的课程编号是158。<br>
 
-打开软件，看到登录界面，用湖南大学虚拟创业学院的账号登录，若服务器响应速度和网速很慢，会需要一段时间才会跳转到主界面<br>
+打开autoExe.jar，选择java平台打开，需要事先安装java。<br>
+![Image text](https://github.com/StratANewProject/AutoClass/blob/master/%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F.png)
+
+<br>看到登录界面，用湖南大学虚拟创业学院的账号登录，若服务器响应速度和网速很慢，会需要一段时间才会跳转到主界面<br>
 ![Image text](https://github.com/StratANewProject/AutoClass/blob/master/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.JPG)
 
 登录后的主界面，下方的方框可以输入<br>
