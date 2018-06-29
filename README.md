@@ -8,8 +8,10 @@
 登录后的主界面，下方的方框可以输入<br>
 ![Image text](https://github.com/StratANewProject/AutoClass/blob/master/%E5%88%9D%E5%A7%8B%E4%B8%BB%E7%95%8C%E9%9D%A2.JPG)
 <br>在输入框中输入课程对应的编号，用空格分隔。如：157 158<br>
+
 课程编号查看方法：课程界面浏览器地址的id值。<br>
-如:http://acadol.hnu.edu.cn/LMS/study/course/onlineCourse/detail.do?id=158 的课程编号是158。<br>
+![Image text](https://github.com/StratANewProject/AutoClass/blob/master/%E8%AF%BE%E7%A8%8B%E7%BC%96%E5%8F%B7%E6%9F%A5%E7%9C%8B%E6%96%B9%E6%B3%95.JPG)
+<br>如:http://acadol.hnu.edu.cn/LMS/study/course/onlineCourse/detail.do?id=158 的课程编号是158。<br>
 若服务器爆满或网速不佳，点击提交按钮后需要等待一段时间<br>
 
 输入编号后点提交按钮<br>
