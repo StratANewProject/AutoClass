@@ -143,14 +143,14 @@ public  class httpUtils {
 		
 		public static void send() {
 			Random rand = new Random();
-			int ihour=1;
-			int imin=rand.nextInt(60);
-			int is=rand.nextInt(60);
-			String hour=String.format("%02d",ihour);
-			String min=String.format("%02d",imin);
-			String s=String.format("%02d",is);
 			Iterator<String> i = hash.iterator();
 			while (i.hasNext()) {
+				int ihour=1;
+				int imin=rand.nextInt(60);
+				int is=rand.nextInt(60);
+				String hour=String.format("%02d",ihour);
+				String min=String.format("%02d",imin);
+				String s=String.format("%02d",is);
 				String id = i.next();
 				try {//beforeunload
 					Request request = new Request.Builder()
