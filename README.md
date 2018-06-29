@@ -24,5 +24,10 @@ win10,MyEclipse 2016 CI
 # 编程语言
 java
 
+# 关于代码
+关键发包代码在httpUtils.java中。学习抓包和发包的过程中使用了以下两个chrome插件：Postman Interceptor和Postman。<br>
+这两个插件相配合能抓到从chrome发出的包。Postman对抓到的已发出的包可以将其直接转化为java代码,也能模拟发包。<br>
+以上插件不能看到接收到的包，这时候可以用wireshark。
+
 # 本人联系方式
 szwpang@qq.com
