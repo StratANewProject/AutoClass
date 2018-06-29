@@ -12,9 +12,9 @@
 登录后的主界面，下方的方框可以输入<br>
 ![Image text](https://github.com/StratANewProject/AutoClass/blob/master/%E5%88%9D%E5%A7%8B%E4%B8%BB%E7%95%8C%E9%9D%A2.JPG)
 <br>在输入框中输入课程对应的编号，用空格分隔。如：157 158<br>
-若服务器爆满或网速不佳，点击提交按钮后需要等待一段时间<br>
+若服务器爆满或网速不佳，点击提交按钮后需要等待一段时间，上方会输出信息显示是否成功<br>
 
-输入编号后点提交按钮后的界面<br>
+点提交按钮后的界面，有显示“刷课成功”才表明成功，缺少则表示失败<br>
 ![Image text](https://github.com/StratANewProject/AutoClass/blob/master/%E4%B8%BB%E7%95%8C%E9%9D%A2%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.jpg)
 
 登录网站看刷课效果，可以看见课程是已完成状态，每个视频的观看时间是不同的随机数，范围是一到两小时<br>
