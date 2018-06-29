@@ -29,5 +29,8 @@ java
 这两个插件相配合能抓到从chrome发出的包。Postman对抓到的已发出的包可以将其直接转化为java代码,也能模拟发包。<br>
 以上插件不能看到接收到的包，这时候可以用wireshark。
 
+# 可运行文件
+用java平台打开autoExe.jar后即可使用软件功能
+
 # 本人联系方式
 szwpang@qq.com
